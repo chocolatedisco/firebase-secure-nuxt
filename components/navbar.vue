@@ -5,14 +5,14 @@
             </b-navbar-item>
         </template>
         <template slot="start">
-            <b-navbar-item href="/">
-                <font-awesome-icon icon="address-card"/> Profile 
+            <b-navbar-item href="/mypage">
+                <font-awesome-icon icon="address-card"/> Mypage 
             </b-navbar-item>
-            <b-navbar-item href="/">
-                <font-awesome-icon icon="laptop-code"/> Skill 
+            <b-navbar-item href="/signup">
+                <font-awesome-icon icon="laptop-code"/> signup 
             </b-navbar-item>
-            <b-navbar-item href="/">
-                <font-awesome-icon icon="server"/>Products 
+            <b-navbar-item href="/login">
+                <font-awesome-icon icon="server"/>login  
             </b-navbar-item>
             <!-- <b-navbar-item href="/tmp">
                 <img src="@/assets/images/pica.gif">Tmp
